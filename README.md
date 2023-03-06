@@ -5,8 +5,8 @@
 ## CONTACT ME:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
-<img src="smiley.gif](https://img.shields.io/badge/Linkedin-Profile-blue" width="42" height="42" >
+<a href="https://www.linkedin.com/in/jo%C3%A3ocunha021/">
+<img src="smiley.gif](https://img.shields.io/badge/Linkedin-Profile-blue" width="42" height="42"></a>
 
 
 
