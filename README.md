@@ -6,4 +6,4 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+https://badgen.net/linkedin/:subject/:status/:color?icon=github)
