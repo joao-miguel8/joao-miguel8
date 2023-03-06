@@ -18,13 +18,14 @@
 ## Glad to see you here! 
 
 
-I think software has changed and improved our lives in many ways. 
-#### Why I like software development:
-* Ultimately software improves peoples lives weather it's banking, managing a bussiness or just using less paper SOFTWARE has changed lives, so I see the value that software helps achieve.
-* Helping a team improve and maintain upon an existing software application.
-* Learning new things with like minded individuals while keeping my brain sharp.
- 
+I think software has changed and improved our lives in many ways I would like to be a part in helping a company who wants to improve and maintain there software for and provide an awesome user experience.
 
+* 💻I'm a **Software Engineering Student**
+* 🥾Completing a **bootcamp** named **#100Devs**
+*  On me free time I enjoy **Watching Films(❤️Documentaries)/Biking/Working out/ Gaming**
+* Practice learning my **Portuguese**
+* Playing Piano(amatuer level)
+* I enjoy cooking(amatuer level)
    
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joao-miguel8&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
