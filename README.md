@@ -20,12 +20,12 @@
 
 I think software has changed and improved our lives in many ways I would like to be a part in helping a company who wants to improve and maintain there software and provide an awesome user experience with an awesome team.
 
-* 💻 I'm a **Software Engineering Student**
-* 🥾 Completing a **bootcamp** named **#100Devs**
-* 🆓 On me free time I enjoy **/ Watching Films(❤️Documentaries) / Biking / Working out / Walks/ Gaming /**
-* 📚 Practice learning my **Portuguese**
-* 🎹 Playing Piano(amatuer level)
-* 👨🏼‍🍳 I can kinda cook decent...(amatuer level)
+* 💻  I'm a **Software Engineering Student**
+* 🥾  Completing a **bootcamp** named **#100Devs**
+* 🆓  On me free time I enjoy **/ Watching Films(❤️Documentaries) / Biking / Working out / Walks/ Gaming /**
+* 📚  Practice learning my **Portuguese**
+* 🎹  Playing Piano(amatuer level)
+* 👨🏼‍🍳  I can kinda cook decent...(amatuer level)
    
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joao-miguel8&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
