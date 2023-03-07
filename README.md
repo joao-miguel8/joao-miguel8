@@ -4,7 +4,7 @@
 
 ## CONTACT ME:
 
-<a href="https://www.linkedin.com/in/jo%C3%A3ocunha021/"><img src="https://img.shields.io/badge/Linkedin-Profile-blu"  width="120"> </a>  
+<a href="https://www.linkedin.com/in/jo%C3%A3ocunha021/"><img src="https://img.shields.io/badge/Linkedin-Profile-blue"  width="150"> </a>  
 
 <a href="https://www.linkedin.com/in/jo%C3%A3ocunha021/"> 📄 Resume</a>  
 
@@ -22,10 +22,10 @@ I think software has changed and improved our lives in many ways I would like to
 
 * 💻I'm a **Software Engineering Student**
 * 🥾Completing a **bootcamp** named **#100Devs**
-*  On me free time I enjoy **Watching Films(❤️Documentaries)/Biking/Working out/ Gaming**
-* Practice learning my **Portuguese**
-* Playing Piano(amatuer level)
-* I enjoy cooking(amatuer level)
+*  On me free time I enjoy **/ Watching Films(❤️Documentaries) / Biking / Working out / Walks/ Gaming /**
+* 📚Practice learning my **Portuguese**
+* 🎹Playing Piano(amatuer level)
+* 👨🏼‍🍳I can kinda cook decent...(amatuer level)
    
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joao-miguel8&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
