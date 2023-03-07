@@ -15,7 +15,7 @@
    
 
 
-## Glad to see you here, I apperciate you reading my bio!
+## Glad to see you here, I appreciate you reading my bio!
 
 
 I think software has changed and improved our lives in many ways I would like to be a part in helping a company who wants to improve and maintain there software and provide an awesome user experience with an awesome team.
