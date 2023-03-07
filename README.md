@@ -48,4 +48,4 @@ I think software has changed and improved our lives in many ways I would like to
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![tracker](https://github-readme-activity-graph.cyclic.app/graph?username={joao-miguel8})
+
