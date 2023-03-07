@@ -18,7 +18,7 @@
 ## Glad to see you here, I appreciate you reading my bio!
 
 
-I think software has changed and improved our lives in many ways I would like to be a part in helping a company who wants to improve and maintain there software and provide an awesome user experience with an awesome team.
+I think software has changed and improved our lives in many ways. I would like to be a part in helping a company who wants to improve and maintain there software; while providing an awesome user experience with an fantastic team.
 
 * 💻  I'm a **Software Engineering Student**
 * 🥾  Completing a **bootcamp** named **#100Devs**
