@@ -18,7 +18,7 @@
 ## Glad to see you here! 
 
 
-I think software has changed and improved our lives in many ways I would like to be a part in helping a company who wants to improve and maintain there software for and provide an awesome user experience.
+I think software has changed and improved our lives in many ways I would like to be a part in helping a company who wants to improve and maintain there software and provide an awesome user experience with an awesome team.
 
 * 💻I'm a **Software Engineering Student**
 * 🥾Completing a **bootcamp** named **#100Devs**
