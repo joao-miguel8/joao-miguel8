@@ -25,6 +25,7 @@ I think software has changed and improved our lives in many ways. I would like t
 * 🆓  On my free time I enjoy **/ Watching Films(❤️Documentaries) / Biking / Working out / Walks/ Gaming /**
 * 📚  Practice learning my **Portuguese**
 * 🎹  Playing Piano(amatuer level)
+* I enjoy reading novels
 
    
    
