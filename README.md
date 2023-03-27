@@ -24,8 +24,7 @@ I think software has changed and improved our lives in many ways. I would like t
 * 🥾  Currently Completing a **bootcamp** named **#100Devs**
 * 🆓  On my free time I enjoy **/ Watching Films(❤️Documentaries) / Biking / Working out / Walks/ Gaming /**
 * 📚  Practice learning my **Portuguese**
-* 🎹  Playing Piano(amatuer level)
-* I enjoy reading novels
+* I enjoy to read
 
    
    
