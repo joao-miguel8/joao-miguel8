@@ -5,22 +5,22 @@
  #### Current Goals: 
    -  Working towards completing #100Devs software engineer training  
    -  Improving my skills daily as a software developer 
-   -  Pushing 4 codewars solutions atleast 4 days a week
+   -  Pushing 3 codewars solutions atleast 4 days a week
 
- #### Current Projects: 
-   -  Building a Real Estate landing page 
-   -  Building a stopwatch timer
+ #### Current Personal Projects:
+   - Web hosing website
 
 
 #### Currently Learning:
-- REACT, NodeJS and Insomnia REST Client
+- React, Tailwind, NPM, Node
 
  
  #### How to reach me: 📧
- - my-website:(Currently unavailable)
+ - my-website:(Currently under construction)
 - Linkedin: https://www.linkedin.com/feed/
 
 
 ###### SKILLS: 🔧
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,postman,git,github&perline=5)](https://skillicons.dev)
+
 
