@@ -8,7 +8,7 @@
    -  Pushing 3 codewars solutions atleast 4 days a week
 
  #### Current Personal Projects:
-   - Web hosing website
+   - Crypto currency website
 
 
 #### Currently Learning:
