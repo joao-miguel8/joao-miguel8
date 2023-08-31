@@ -4,15 +4,12 @@
 
  #### Current Goals: 
    -  Working towards completing #100Devs software engineer training  
-   -  Improving my skills daily as a software developer 
-   -  Pushing 3 codewars solutions atleast 4 days a week
-
- #### Current Personal Projects:
-   - Crypto currency website
+   -  Improving my skills daily as a software developer building projects and learning new concepts 
+   -  Pushing 3 codewars solutions a week
 
 
 #### Currently Learning:
-- React, Tailwind, NPM, Node
+- React, Firebase, Typescript
 
  
  #### How to reach me: 📧
